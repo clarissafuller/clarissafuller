@@ -1,4 +1,4 @@
-#Clarissa Fuller: Full Stack Developer
+# Clarissa Fuller: Full Stack Developer
 
 # Overview
 
