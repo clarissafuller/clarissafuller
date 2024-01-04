@@ -31,7 +31,7 @@ As a new coder, my projects currently consist of school projects and personal pr
 
 ### React Portfolio
 
-- **Description:** Another project description.
+- **Description:** Welcome to my coding portfolio, built with the power of React! 🚀 This project serves as a showcase of my skills, projects, and the journey I've embarked upon in the world of coding.
 - **Link:** [Portfolio Page](https://clarissafuller.com/)
 - **Documentation:** [Github and Docs](https://github.com/clarissafuller/react-portfolio)
 
