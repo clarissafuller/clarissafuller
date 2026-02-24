@@ -1,93 +1,84 @@
-👋 Hi, I'm Clarissa Fuller
+# Hi, I'm Clarissa Fuller 👋
 
-I’m a technically curious problem-solver with a background in chemistry and growing experience in computer science, data, and software systems.
+Technically curious problem-solver with a background in chemistry and growing experience in computer science, data, and software systems.
 
-I build projects to strengthen my understanding of backend logic, data modeling, and system design. I’m especially interested in roles that sit at the intersection of technology, data, and real-world operations.
+I build projects to strengthen my understanding of backend logic, data modeling, and practical system design. I'm especially interested in roles that sit at the intersection of technology, data, and real-world operations.
 
-Currently:
+---
 
-📚 Studying Computer Science (Java, Discrete Structures, Data Structures)
+## 🚀 Currently Focused On
 
-💻 Building full-stack and backend-focused projects
+- 📚 Computer Science coursework (Java, Discrete Structures, Data Structures)
+- 💻 Backend-focused and full-stack projects
+- 📊 Strengthening algorithmic thinking and data fundamentals
+- 🔌 APIs, automation, and AI integrations
 
-📊 Strengthening foundations in algorithms and data analysis
+---
 
-🧠 Exploring practical applications of APIs, automation, and AI tools
+## 🛠 Technical Skills
 
-🛠 Technical Skills
+### Languages
+- Java  
+- JavaScript  
+- Python  
+- R  
+- Swift (foundational)
 
-Languages
+### Backend & Data
+- Node.js  
+- Express  
+- MongoDB  
+- MySQL  
+- REST APIs  
+- Data structures & algorithms  
+- WebSockets (Socket.IO)  
+- Foundational AWS knowledge  
 
-Java
+### Frontend
+- React  
+- HTML / CSS  
 
-JavaScript
+### Tools
+- Git & GitHub  
+- API integrations  
+- Deployment (Netlify, Heroku)
 
-Python
+---
 
-R
+## 📌 Featured Work
 
-Swift (foundational)
+### Slack Team Game Application
+Slack-based team-building app built with:
+- Node.js  
+- Express  
+- MongoDB  
+- Slack Bolt  
+- OpenAI API  
 
-Backend & Data
+Focus areas: backend logic, data persistence, API integration, and real-time communication.
 
-Node.js
+---
 
-Express
-
-MongoDB
-
-MySQL
-
-REST APIs
-
-Data structures & algorithms
-
-Basic AWS familiarity
-
-Frontend
-
-React
-
-HTML / CSS
-
-Tools
-
-Git & GitHub
-
-API integrations
-
-WebSockets (Socket.IO)
-
-📌 Projects
-Slack Team Game Application
-
-A Slack-based team-building app built with Node.js, Express, MongoDB, and OpenAI’s API.
-Focus: backend logic, data persistence, API integration, and real-time communication.
-
-Academic Java Projects
-
+### Academic Java Projects
 Course-based projects focused on:
+- Object-oriented programming  
+- Input validation  
+- Data structure manipulation  
+- Algorithmic problem-solving  
 
-Object-oriented programming
+---
 
-Input validation
+## 🧠 Interests
 
-Data structure manipulation
+- Backend systems and logic design  
+- Data-driven decision making  
+- Technical implementation roles  
+- Bridging technical and non-technical stakeholders  
 
-Algorithmic thinking
+---
 
-🧠 Interests
+## 📫 Connect
 
-Backend logic and system behavior
-
-Data-driven decision making
-
-Technical implementation roles
-
-Bridging technical and non-technical stakeholders
-
-## Contact
-
-- GitHub: [My Github Profile](https://github.com/clarissafuller)
-- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/clarissa-fuller-360096109/)
+- GitHub: https://github.com/clarissafuller  
+- LinkedIn: https://www.linkedin.com/in/clarissa-fuller-360096109/  
 - Email: clarissafuller5@yahoo.com
