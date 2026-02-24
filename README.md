@@ -1,77 +1,90 @@
-# Clarissa Fuller: Full Stack Developer
+👋 Hi, I'm Clarissa Fuller
 
-# Overview
+I’m a technically curious problem-solver with a background in chemistry and growing experience in computer science, data, and software systems.
 
-## About Me
-Hello there! 👋 I'm Clarissa, a passionate and enthusiastic software developer with a background in chemistry, a graduate of the Full Stack Coding Bootcamp at Columbia University (November 2023), and a continuous learner.
+I build projects to strengthen my understanding of backend logic, data modeling, and system design. I’m especially interested in roles that sit at the intersection of technology, data, and real-world operations.
 
-## Education
-Bachelor's in Chemistry: My foundation in chemistry has honed my analytical thinking and problem-solving skills, qualities that I apply to my coding endeavors.
-## Coding Journey
-Full Stack Coding Bootcamp Graduate: Having completed the Full Stack Coding Bootcamp, I've gained practical experience in web development, mastering both front-end and back-end technologies.
-## Technology Stack
-JavaScript Enthusiast: I'm primarily a JavaScript coder, fascinated by its versatility and its role in both front-end and back-end development.
-I also am verse in languages such as Python, R, and Swift. I'm looking into exploring C++ next! 
-## Areas of Interest
-Back-End Lover: I have a special affinity for back-end development, crafting robust server-side logic and handling databases.
-Front-End Enthusiast: I enjoy creating engaging and user-friendly interfaces to enhance the overall user experience.
-## Special Interests
-Data Structure Management: I find joy in organizing and optimizing data structures, ensuring efficient and effective data handling.
-API Integration: Bridging the gap between different systems through seamless API integrations excites me.
+Currently:
 
-## Projects
+📚 Studying Computer Science (Java, Discrete Structures, Data Structures)
 
-I currently work on projects to build my skills and bring my passions to life. Here are just a few: 
+💻 Building full-stack and backend-focused projects
 
-### Clark's Club
+📊 Strengthening foundations in algorithms and data analysis
 
-- **Description:** The ultimate fashion rental app for men seeking effortless style without commitment. DRESSED allows users to explore a curated collection of the latest trends and timeless classics, handpicked by our fashion experts. With a monthly subscription, users can rent a personalized selection of outfits tailored to their preferences and lifestyle.
-- **Link:** [Project 1](link-to-project-1)
-- **Documentation:** [DRESSED](https://github.com/clarissafuller/dressed)
+🧠 Exploring practical applications of APIs, automation, and AI tools
 
-### React Portfolio
+🛠 Technical Skills
 
-- **Description:** Welcome to my coding portfolio, built with the power of React! 🚀 This project serves as a showcase of my skills, projects, and the journey I've embarked upon in the world of coding.
-- **Link:** [Portfolio Page](https://clarissafuller.com/)
-- **Documentation:** [Github and Docs](https://github.com/clarissafuller/react-portfolio)
+Languages
 
-## Skills
+Java
 
-- JavaScript
-- React
-- HTML
-- CSS
-- Node.js
-- MERN Stack
-- Version Control: Git
+JavaScript
 
-- Problem Solving
-- Algorithms
-- Data Structures
+Python
 
-- Third-Party APIs:
-    jQuery
-    Bootstrap
-    Stripe
-    Shopify
-    OAuth
-    Socket.IO
-    Spotify
-    Server Side APIs
+R
 
-- RESTful APIs
-    GraphQL
-    Amazon Web Services
-    MySQL
-    NoSQL
-    MongoDB
-    Unit Testing
+Swift (foundational)
 
-- Deployment: Netlify, Heroku
-- Progressive Web Apps
-- Express.js Servers
-- ORM: Sequelize
-- MVC Frameworks: Handlebars.js
+Backend & Data
+
+Node.js
+
+Express
+
+MongoDB
+
+MySQL
+
+REST APIs
+
+Data structures & algorithms
+
+Basic AWS familiarity
+
+Frontend
+
+React
+
+HTML / CSS
+
+Tools
+
+Git & GitHub
+
+API integrations
+
+WebSockets (Socket.IO)
+
+📌 Projects
+Slack Team Game Application
+
+A Slack-based team-building app built with Node.js, Express, MongoDB, and OpenAI’s API.
+Focus: backend logic, data persistence, API integration, and real-time communication.
+
+Academic Java Projects
+
+Course-based projects focused on:
+
+Object-oriented programming
+
+Input validation
+
+Data structure manipulation
+
+Algorithmic thinking
+
+🧠 Interests
+
+Backend logic and system behavior
+
+Data-driven decision making
+
+Technical implementation roles
+
+Bridging technical and non-technical stakeholders
 
 ## Contact
 
